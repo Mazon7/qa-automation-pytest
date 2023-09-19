@@ -1,0 +1,17 @@
+{
+    "base": {
+      "project": "Smart Education Tests",
+      "environment": "QA",
+      "comment": "Check the report",
+      "reportLink": "https://cyberyozh.github.io/education-tests",
+      "language": "en",
+      "messenger": "telegram",
+      "allureFolder": "allure-report",
+      "enableChart": true
+    },
+    "telegram": {
+      "token": "TELEGRAM_TOKEN",
+      "chat": "CHAT_ID",
+      "replyTo": ""
+    }
+}

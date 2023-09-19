@@ -1,0 +1,12 @@
+beautifulsoup4==4.12.2
+google_api_python_client==2.88.0
+google_auth_oauthlib==1.0.0
+protobuf==4.23.2
+allure_python_commons==2.13.2
+allure-pytest==2.13.2
+httpx==0.23.3
+jsonschema==4.17.3
+pytest==7.3.2
+pytest-steps==1.8.0
+selenium==4.10.0
+seleniumbase==4.15.3

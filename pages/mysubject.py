@@ -1,0 +1,7 @@
+class MySubjectPage:
+    UNSUBSCRIBE_COURSE_QA = ""
+    TEST_SUBJECT_COURSE_QA = ""
+    PAID_SUBJECT_QA = ""
+    SUPER_PUPER_SUBJECT_QA = ""
+    SUPER_TEST_QA = ""
+    TEST_SUBJECT_QA_MAX = ""
